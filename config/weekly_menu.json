@@ -1,0 +1,41 @@
+{
+  "version": "1.0",
+  "monday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F002","food_name":"红烧肉","prompt":"一份红烧肉"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"},
+    {"food_id":"F004","food_name":"鸡蛋","prompt":"一份鸡蛋"}
+  ]},
+  "tuesday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F002","food_name":"红烧肉","prompt":"一份红烧肉"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"},
+    {"food_id":"F004","food_name":"鸡蛋","prompt":"一份鸡蛋"}
+  ]},
+  "wednesday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F002","food_name":"红烧肉","prompt":"一份红烧肉"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"},
+    {"food_id":"F004","food_name":"鸡蛋","prompt":"一份鸡蛋"}
+  ]},
+  "thursday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F002","food_name":"红烧肉","prompt":"一份红烧肉"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"},
+    {"food_id":"F004","food_name":"鸡蛋","prompt":"一份鸡蛋"}
+  ]},
+  "friday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F002","food_name":"红烧肉","prompt":"一份红烧肉"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"},
+    {"food_id":"F004","food_name":"鸡蛋","prompt":"一份鸡蛋"}
+  ]},
+  "saturday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"}
+  ]},
+  "sunday": {"foods": [
+    {"food_id":"F001","food_name":"米饭","prompt":"一份米饭"},
+    {"food_id":"F003","food_name":"青菜","prompt":"一份青菜"}
+  ]}
+}

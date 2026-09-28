@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "weight": {
+    "mode": "mock",
+    "serial_port": ""
+  },
+  "camera": {
+    "mode": "mock",
+    "ip_address": ""
+  }
+}

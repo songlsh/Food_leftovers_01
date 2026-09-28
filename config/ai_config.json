@@ -1,0 +1,8 @@
+{
+    "backend": "chinese_clip",
+    "mode": "real",
+    "device": "auto",
+    "threshold": 0.65,
+    "menu_constraint": true,
+    "prompt_enhance": true
+}

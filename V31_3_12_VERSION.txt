@@ -1,0 +1,5 @@
+SLS V31_3_12
+Real ChineseCLIP Image->Text Inference
+Base: V31_3_11 FULL
+Model: OFA-Sys/chinese-clip-vit-base-patch16 / ViT-B/16
+Status: REAL_INFERENCE

@@ -1,0 +1,6 @@
+# V31.3 Real ChineseCLIP
+torch
+torchvision
+transformers
+pillow>=10
+sentencepiece
